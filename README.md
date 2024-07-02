@@ -8,4 +8,8 @@ This QRadar Daily Health Check extension generates a comprehensive four-part rep
 
 Thanks to the saved searches (their names start with "DHC:"), you can run these queries manually.
 
+Installation: DailyHealthCheck-*.zip file is imported from the QRadar GUI (Admin tab > Extensions Management > Add & Upload & Install)
+
 Tested on QRadar v7.5.0 UP4+
+
+Sample output: Daily Health Check.pdf
